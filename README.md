@@ -4,7 +4,7 @@ I'm trying to increase the speed of `govendor sync` by having it use the cache
 if it can before trying to update the cache. If that does not work update the
 cache and try again.
 
-The repo will be pushed with commit `???`.
+The repo will be pushed with commit `766da4a9918ca6755a7e9730f741ae97da65033a`.
 
 Then I will use govendor to fetch/sync it to another project.
 
