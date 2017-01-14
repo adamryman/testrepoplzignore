@@ -1,0 +1,4 @@
+package tset
+
+func Woo() {
+}
